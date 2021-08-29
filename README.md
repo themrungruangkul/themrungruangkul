@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Thunpitak (Ming)
-- 👀 I’m interested in Statistics, Analytics, Machine Learning, and Automation
+- 👀 I’m interested in Statistics, Automation, Machine Learning, and Investment.
 - 📫 Contract: thunpitak.hem93@gmail.com
 
 <!---
